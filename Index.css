@@ -1,0 +1,25 @@
+.error-message
+{
+    color:red;
+    font-size: 14px;
+   
+}
+h1{
+    text-align: center;
+    background-image: url("https://cdn.forms.office.net/forms/images/neopages/template/tm01084693.png"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    
+}
+p{
+    text-align: center;
+    font-weight:1000; 
+}
+form{
+    width:100%;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/office-desk-workspace-bright-color-yellow-background_169016-38713.jpg?semt=ais_hybrid");
+    background-size: cover;
+    
+}
